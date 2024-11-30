@@ -1,5 +1,5 @@
 1. Download file zip dan masukkan file kedalam XAMPP->htdocs
-2. Buat database dengan nama drawing atau sesuai yang diinginkan
+2. Buat database dengan nama drawing atau sesuai yang diinginkan dapat dilihat pada kode setup.sql
 3. Copy url yang ada pada air_canvas_ml ke browser untuk melihat apakah dashboard berhasil dibuat atau tidak
 4. Jika berhasil lakukan import library 
 5. Sesuaikan password dan nama database(jika berubah) pada kode save_image dan fetch data
